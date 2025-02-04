@@ -1,16 +1,62 @@
-## Hi there 👋
+# 👋 Hi, I'm Siddharth Chauhan
+### Web3 | Full-Stack Developer
+Building decentralized applications with modern web infrastructure.   
+Software Developer who loves building cool stuff and solving problems.  
 
-<!--
-**siddharth-chauhan-it/siddharth-chauhan-it** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+## 🛠️ **Tech Stack**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🖥️ Frontend
+![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+![React.js](https://img.shields.io/badge/-React.js-00DAFB?logo=react&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
+![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
+![ShadCN](https://img.shields.io/badge/-ShadCN-111111?logo=shadcnui&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
+
+### ⚙️ Backend
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?logo=socketdotio&logoColor=white)
+
+### 🗄️ Database
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white)
+
+### 🔗 Blockchain
+![Solidity](https://img.shields.io/badge/-Solidity-363636?logo=solidity&logoColor=white)
+![Ethers.js](https://img.shields.io/badge/Ethers.js-2535A0?logo=ethers&logoColor=white)
+![Hardhat](https://img.shields.io/badge/-Hardhat-F7DF1E?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAxMjggMTI4Ij48ZGVmcz48bGluZWFyR3JhZGllbnQgaWQ9ImEiIHgxPSIxMC41NjEiIHgyPSIxMC41NjEiIHkxPSIzMC41MTQiIHkyPSI2LjE4NiIgZ3JhZGllbnRUcmFuc2Zvcm09InRyYW5zbGF0ZSgtMi4zMjYgMTEuMTU4KSBzY2FsZSgyLjU2NjE3KSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIHN0b3AtY29sb3I9IiNFRENGMDAiPjwvc3RvcD48c3RvcCBvZmZzZXQ9Ii4zMyIgc3RvcC1jb2xvcj0iI0YwRDUwMCI+PC9zdG9wPjxzdG9wIG9mZnNldD0iLjc3IiBzdG9wLWNvbG9yPSIjRjlFNTAwIj48L3N0b3A+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjRkZGMTAwIj48L3N0b3A+PC9saW5lYXJHcmFkaWVudD48bGluZWFyR3JhZGllbnQgaWQ9ImIiIHgxPSI0Ni4wODkiIHgyPSI0Ni4wODkiIHkxPSIzMC42OTIiIHkyPSIxMy4wOTIiIGdyYWRpZW50VHJhbnNmb3JtPSJ0cmFuc2xhdGUoLTIuMzI2IDExLjE1OCkgc2NhbGUoMi41NjYxNykiIGdyYWRpZW50VW5pdHM9InVzZXJTcGFjZU9uVXNlIj48c3RvcCBzdG9wLWNvbG9yPSIjRURDRjAwIj48L3N0b3A+PHN0b3Agb2Zmc2V0PSIuNTkiIHN0b3AtY29sb3I9IiNGN0UxMDAiPjwvc3RvcD48c3RvcCBvZmZzZXQ9IjEiIHN0b3AtY29sb3I9IiNGRkYxMDAiPjwvc3RvcD48L2xpbmVhckdyYWRpZW50PjxyYWRpYWxHcmFkaWVudCBpZD0iYyIgY3g9IjAiIGN5PSIwIiByPSIxIiBncmFkaWVudFRyYW5zZm9ybT0ibWF0cml4KDQ3LjU3NjIxIDAgMCA0Ny4yNTIzNiA3LjE3MiAxMzIuMTE0KSIgZ3JhZGllbnRVbml0cz0idXNlclNwYWNlT25Vc2UiPjxzdG9wIHN0b3AtY29sb3I9IiNGRkYxMDAiPjwvc3RvcD48c3RvcCBvZmZzZXQ9Ii4yMyIgc3RvcC1jb2xvcj0iI0Y5RTUwMCI+PC9zdG9wPjxzdG9wIG9mZnNldD0iLjY3IiBzdG9wLWNvbG9yPSIjRjBENTAwIj48L3N0b3A+PHN0b3Agb2Zmc2V0PSIxIiBzdG9wLWNvbG9yPSIjRURDRjAwIj48L3N0b3A+PC9yYWRpYWxHcmFkaWVudD48L2RlZnM+PHBhdGggZmlsbD0iI2ZmZmZmZiIgZD0iTTEyNy45OSA5OC44OTNWOTIuNjhjMC0xLjE1NS0xLjk0My0yLjI1Ni01LjQzLTMuMjQ5bC4wODQtNy43MzJhNTcuNzEgNTcuNzEgMCAwIDAtMTAuNTg4LTMzLjI5NkE1OC41NzMgNTguNTczIDAgMCAwIDg0LjEyMSAyNy4xM2wtLjI1LTEuNTVhNC40MTkgNC40MTkgMCAwIDAtMS4wNDYtMi4yMzggNC40ODMgNC40ODMgMCAwIDAtMi4wOTItMS4zMzcgNTkuNDAyIDU5LjQwMiAwIDAgMC0zMy4xNjcgMGMtLjgxNC4yMzktMS41NC43LTIuMSAxLjMzNWE0LjM5OCA0LjM5OCAwIDAgMC0xLjA1MSAyLjIzN2wtLjI0IDEuNDQ1YTU4LjU4OCA1OC41ODggMCAwIDAtMjguMTMgMjEuMjU2QTU3LjczNCA1Ny43MzQgMCAwIDAgNS4zNzQgODEuNjk3djcuNzY1Yy0zLjQzOS45OS01LjM1NiAyLjA3OS01LjM1NiAzLjIyNlY5OC45YTEuNTE0IDEuNTE0IDAgMCAwIC4yMjQgMS4wNDcgMTUuMDE3IDE1LjAxNyAwIDAgMSA1Ljc2Ni0yLjYwNCAxMTMuMzcgMTEzLjM3IDAgMCAxIDE2LjE3NC0yLjY4NCAxMC45MDYgMTAuOTA2IDAgMCAxIDguNDg3IDIuNzEyIDIyLjk2NyAyMi45NjcgMCAwIDAgMTUuNDIgNS45MzNoMzUuODM0YTIyLjk1IDIyLjk1IDAgMCAwIDE1LjQxNy01LjkzOCAxMC45MTQgMTAuOTE0IDAgMCAxIDguNDg5LTIuNzQzQTExNC4xIDExNC4xIDAgMCAxIDEyMiA5Ny4yOTdhMTMuNDk4IDEzLjQ5OCAwIDAgMSA1LjQ2NiAyLjM3M2MuMDkuMDkuMi4xNy4yNzcuMjU0YTEuNTQgMS41NCAwIDAgMCAuMjQ2LTEuMDMxeiI+PC9wYXRoPjxwYXRoIGZpbGw9IiNmZmZmZmYiIGQ9Ik0zMC43NTIgODUuODE4YTEzNi4xNzEgMTM2LjE3MSAwIDAgMS0uMDc3LTQuMjkzYy4wMTgtMjEuNTk3IDUuMTEyLTQwLjk2NiAxMy41MDMtNTQuNDkzYTU4LjU4OCA1OC41ODggMCAwIDAtMjguMTMgMjEuMjUzQTU3LjczNCA1Ny43MzQgMCAwIDAgNS4zNzMgODEuNjk3djcuNzY1YTE0My40NDkgMTQzLjQ0OSAwIDAgMSAyNS4zOC0zLjY0NFoiPjwvcGF0aD48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMTIyLjYzOSA4MS42OTdhNTcuNTQ2IDU3LjU0NiAwIDAgMC0xMy4zODMtMzYuOTQzIDExOS40NTUgMTE5LjQ1NSAwIDAgMSA1LjU0OCAzNi43NmMwIDIuMTA1LS4wNTYgNC4xODMtLjE1MyA2LjI1YTczLjExIDczLjExIDAgMCAxIDcuODg4IDEuNjYybC4wOTctNy43M3oiPjwvcGF0aD48cGF0aCBmaWxsPSIjZmZmZmZmIiBkPSJNMTIyIDk3LjMyYTExMy40OSAxMTMuNDkgMCAwIDAtMTYuMTc1LTIuNjg1IDEwLjkxMSAxMC45MTEgMCAwIDAtOC40ODggMi43MjYgMjIuOTUgMjIuOTUgMCAwIDEtMTUuNDIgNS45MzVoLTM1LjgyYTIyLjk2MiAyMi45NjIgMCAwIDEtMTUuNDExLTUuOTMzIDEwLjkwNCAxMC45MDQgMCAwIDAtOC40OS0yLjc0OCAxMTMuNzg3IDExMy43ODcgMCAwIDAtMTYuMTc0IDIuNjgyQTE1LjIxNSAxNS4yMTUgMCAwIDAgLjI2IDk5LjljMi43MiA0LjEyNyAzMC4yMzQgOC40NTYgNjMuNzU4IDguNDU2IDMzLjUyNyAwIDYxLjAyOS00LjM0NSA2My43NTQtOC40NTMtLjA5NS0uMDgyLS4yLS4xNjItLjI4LS4yNTJBMTQuMDE5IDE0LjAxOSAwIDAgMCAxMjIgOTcuMzJaIj48L3BhdGg+PHBhdGggZmlsbD0iIzBhMGEwYSIgZD0iTTY0IDM3Ljg4MiA1MC4yOCA2MS4wMzQgNjQgNjkuNDc3VjM3Ljg4WiI+PC9wYXRoPjxwYXRoIGZpbGw9IiM0YjRkNGQiIGQ9Ik02NC4wMDUgMzcuODl2MzEuNTc5bDEzLjcxNi04LjQyN3ptMCAzNi4xNjV2MTEuMDExYy4yNTYtLjM2NCAxMy43MTYtMTkuNDUxIDEzLjcxNi0xOS40NmwtMTMuNzE2IDguNDUxeiI+PC9wYXRoPjxwYXRoIGZpbGw9IiMwYTBhMGEiIGQ9Im02NC4wMDUgNzQuMDYtMTMuNzItOC40MzggMTMuNzIgMTkuNDUydi0xMS4wMloiPjwvcGF0aD48L3N2Zz4=)
+![Chainlink](https://img.shields.io/badge/-Chainlink-375BD2?logo=chainlink&logoColor=white)
+![The Graph](https://img.shields.io/badge/-The_Graph-6F4CFF)
+![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?logo=ipfs&logoColor=white)
+![ZKsync](https://img.shields.io/badge/-ZKsync-1C68F6?logo=ZKsync&logoColor=white)
+![Thirdweb](https://img.shields.io/badge/-Thirdweb-000000?logo=thirdweb&logoColor=white)
+![Wagmi](https://img.shields.io/badge/-Wagmi-FFC43A?logo=wagmi&logoColor=black)
+![Viem](https://img.shields.io/badge/-Viem-4B32C3?logo=viem&logoColor=white)
+
+### ☁️ Cloud
+![AWS S3](https://img.shields.io/badge/-AWS_S3-569A31?logo=amazons3&logoColor=white)
+![AWS EC2](https://img.shields.io/badge/-AWS_EC2-FF9900?logo=amazonec2&logoColor=white)
+![AWS Lambda](https://img.shields.io/badge/-AWS_Lambda-FF9900?logo=awslambda&logoColor=white)
+
+---
+
+## 🌟 **Featured Projects**
+- **[Atomize Design System](https://atomizedesign.vercel.app/)**  
+  The most advanced UI design framework for Figma.
+- **[Cash2Bitcoin](https://cash2bitcoin-pages.vercel.app/)**  
+  Effortlessly buy Bitcoin and other cryptocurrencies using 24x7 ATMs across the country.
+---
+
+
+## 📫 **Let's Connect**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBmaWxsPSIjZmZmZmZmIiBoZWlnaHQ9IjgwMHB4IiB3aWR0aD0iODAwcHgiIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHZpZXdCb3g9IjAgMCA0NTUgNDU1IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPGc+Cgk8cGF0aCBzdHlsZT0iZmlsbC1ydWxlOmV2ZW5vZGQ7Y2xpcC1ydWxlOmV2ZW5vZGQ7IiBkPSJNMjQ2LjQsMjA0LjM1di0wLjY2NWMtMC4xMzYsMC4yMjMtMC4zMjQsMC40NDYtMC40NDIsMC42NjVIMjQ2LjR6IiBzdHJva2U9ImJsYWNrIi8+Cgk8cGF0aCBzdHlsZT0iZmlsbC1ydWxlOmV2ZW5vZGQ7Y2xpcC1ydWxlOmV2ZW5vZGQ7IiBkPSJNMCwwdjQ1NWg0NTVWMEgweiBNMTQxLjUyMiwzNzguMDAySDc0LjAxNlYxNzQuOTA2aDY3LjUwNlYzNzguMDAyeiAgICBNMTA3Ljc2OSwxNDcuMTg2aC0wLjQ0NkM4NC42NzgsMTQ3LjE4Niw3MCwxMzEuNTg1LDcwLDExMi4wODVjMC0xOS45MjgsMTUuMTA3LTM1LjA4NywzOC4yMTEtMzUuMDg3ICAgYzIzLjEwOSwwLDM3LjMxLDE1LjE1OSwzNy43NTIsMzUuMDg3QzE0NS45NjMsMTMxLjU4NSwxMzEuMzIsMTQ3LjE4NiwxMDcuNzY5LDE0Ny4xODZ6IE0zODUsMzc4LjAwMmgtNjcuNTI0VjI2OS4zNDUgICBjMC0yNy4yOTEtOS43NTYtNDUuOTItMzQuMTk1LTQ1LjkyYy0xOC42NjQsMC0yOS43NTUsMTIuNTQzLTM0LjY0MSwyNC42OTNjLTEuNzc2LDQuMzQtMi4yNCwxMC4zNzMtMi4yNCwxNi40NTl2MTEzLjQyNmgtNjcuNTM3ICAgYzAsMCwwLjkwNS0xODQuMDQzLDAtMjAzLjA5NkgyNDYuNHYyOC43NzljOC45NzMtMTMuODA3LDI0Ljk4Ni0zMy41NDcsNjAuODU2LTMzLjU0N2M0NC40MzcsMCw3Ny43NDQsMjkuMDIsNzcuNzQ0LDkxLjM5OFYzNzguMDAyICAgeiIvPgo8L2c+Cjwvc3ZnPg==)](https://linkedin.com/in/siddharth-it/)
+[![Website](https://img.shields.io/badge/Website-E34F26?&logo=safari&logoColor=white)](https://siddharthchauhan.in)
+[![Twitter](https://img.shields.io/badge/Twitter-000?logo=x&logoColor=white)](https://x.com/0xSiddharth_c)
