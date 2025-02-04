@@ -8,20 +8,20 @@ Software Developer who loves building cool stuff and solving problems.
 ## 🛠️ **Tech Stack**
 
 ### 🖥️ Frontend
-![Next.js](https://img.shields.io/badge/-Next.js-000000?logo=nextdotjs&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-363636?logo=nextdotjs&logoColor=white)
 ![React.js](https://img.shields.io/badge/-React.js-00DAFB?logo=react&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?logo=typescript&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black)
 ![Tailwind CSS](https://img.shields.io/badge/-Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white)
-![ShadCN](https://img.shields.io/badge/-ShadCN-111111?logo=shadcnui&logoColor=white)
+![ShadCN](https://img.shields.io/badge/-ShadCN-363636?logo=shadcnui&logoColor=white)
 ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?logo=html5&logoColor=white)
 
 ### ⚙️ Backend
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/-Express-000000?logo=express&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-363636?logo=express&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?logo=graphql&logoColor=white)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white)
-![Socket.IO](https://img.shields.io/badge/-Socket.IO-010101?logo=socketdotio&logoColor=white)
+![Socket.IO](https://img.shields.io/badge/-Socket.IO-363636?logo=socketdotio&logoColor=white)
 
 ### 🗄️ Database
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white)
@@ -36,7 +36,7 @@ Software Developer who loves building cool stuff and solving problems.
 ![The Graph](https://img.shields.io/badge/-The_Graph-6F4CFF)
 ![IPFS](https://img.shields.io/badge/-IPFS-65C2CB?logo=ipfs&logoColor=white)
 ![ZKsync](https://img.shields.io/badge/-ZKsync-1C68F6?logo=ZKsync&logoColor=white)
-![Thirdweb](https://img.shields.io/badge/-Thirdweb-000000?logo=thirdweb&logoColor=white)
+![Thirdweb](https://img.shields.io/badge/-Thirdweb-363636?logo=thirdweb&logoColor=white)
 ![Wagmi](https://img.shields.io/badge/-Wagmi-FFC43A?logo=wagmi&logoColor=black)
 ![Viem](https://img.shields.io/badge/-Viem-4B32C3?logo=viem&logoColor=white)
 
@@ -59,4 +59,4 @@ Software Developer who loves building cool stuff and solving problems.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0072b1.svg?logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnhsaW5rPSJodHRwOi8vd3d3LnczLm9yZy8xOTk5L3hsaW5rIiBmaWxsPSIjZmZmZmZmIiBoZWlnaHQ9IjgwMHB4IiB3aWR0aD0iODAwcHgiIHZlcnNpb249IjEuMSIgaWQ9IkxheWVyXzEiIHZpZXdCb3g9IjAgMCA0NTUgNDU1IiB4bWw6c3BhY2U9InByZXNlcnZlIj4KPGc+Cgk8cGF0aCBzdHlsZT0iZmlsbC1ydWxlOmV2ZW5vZGQ7Y2xpcC1ydWxlOmV2ZW5vZGQ7IiBkPSJNMjQ2LjQsMjA0LjM1di0wLjY2NWMtMC4xMzYsMC4yMjMtMC4zMjQsMC40NDYtMC40NDIsMC42NjVIMjQ2LjR6IiBzdHJva2U9ImJsYWNrIi8+Cgk8cGF0aCBzdHlsZT0iZmlsbC1ydWxlOmV2ZW5vZGQ7Y2xpcC1ydWxlOmV2ZW5vZGQ7IiBkPSJNMCwwdjQ1NWg0NTVWMEgweiBNMTQxLjUyMiwzNzguMDAySDc0LjAxNlYxNzQuOTA2aDY3LjUwNlYzNzguMDAyeiAgICBNMTA3Ljc2OSwxNDcuMTg2aC0wLjQ0NkM4NC42NzgsMTQ3LjE4Niw3MCwxMzEuNTg1LDcwLDExMi4wODVjMC0xOS45MjgsMTUuMTA3LTM1LjA4NywzOC4yMTEtMzUuMDg3ICAgYzIzLjEwOSwwLDM3LjMxLDE1LjE1OSwzNy43NTIsMzUuMDg3QzE0NS45NjMsMTMxLjU4NSwxMzEuMzIsMTQ3LjE4NiwxMDcuNzY5LDE0Ny4xODZ6IE0zODUsMzc4LjAwMmgtNjcuNTI0VjI2OS4zNDUgICBjMC0yNy4yOTEtOS43NTYtNDUuOTItMzQuMTk1LTQ1LjkyYy0xOC42NjQsMC0yOS43NTUsMTIuNTQzLTM0LjY0MSwyNC42OTNjLTEuNzc2LDQuMzQtMi4yNCwxMC4zNzMtMi4yNCwxNi40NTl2MTEzLjQyNmgtNjcuNTM3ICAgYzAsMCwwLjkwNS0xODQuMDQzLDAtMjAzLjA5NkgyNDYuNHYyOC43NzljOC45NzMtMTMuODA3LDI0Ljk4Ni0zMy41NDcsNjAuODU2LTMzLjU0N2M0NC40MzcsMCw3Ny43NDQsMjkuMDIsNzcuNzQ0LDkxLjM5OFYzNzguMDAyICAgeiIvPgo8L2c+Cjwvc3ZnPg==)](https://linkedin.com/in/siddharth-it/)
 [![Website](https://img.shields.io/badge/Website-E34F26?&logo=safari&logoColor=white)](https://siddharthchauhan.in)
-[![Twitter](https://img.shields.io/badge/Twitter-000?logo=x&logoColor=white)](https://x.com/0xSiddharth_c)
+[![Twitter](https://img.shields.io/badge/Twitter-363636?logo=x&logoColor=white)](https://x.com/0xSiddharth_c)
